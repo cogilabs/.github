@@ -7,3 +7,5 @@ Here and on my website [Cogilabs.eu](https://cogilabs.eu/), you will find some m
 I hope you will enjoy your visit here, and maybe find some of my projects interesting and informative. If you have any questions or comments, please feel free to contact me [here](https://cogilabs.eu/contact.html).
 
 Thank you for visiting Cogilabs!
+
+P.S.: It might be more pleasant to look through my projects on [the projects page of Cogilabs](https://cogilabs.eu/Projects/) directly!
